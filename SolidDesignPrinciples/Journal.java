@@ -9,8 +9,7 @@ class Journal {
 
     private static int count = 0;
 
-    public void addEntry(String text)
-    {
+    public void addEntry(String text) {
         entries.add("" + (++count) + ": " + text);
     }
 
@@ -25,8 +24,7 @@ class Journal {
     }
 
     // here we break SRP
-    public void save(String filename) throws Exception
-    {
+    public void save(String filename) throws Exception {
         try (PrintStream out = new PrintStream(filename))
         {
             out.println(toString());
@@ -40,8 +38,7 @@ class Journal {
 // handles the responsibility of persisting objects
 class Persistence {
     public void saveToFile(Journal journal,
-                           String filename, boolean overwrite) throws Exception
-    {
+                           String filename, boolean overwrite) throws Exception {
         if (overwrite || new File(filename).exists())
             try (PrintStream out = new PrintStream(filename)) {
                 out.println(journal.toString());
@@ -53,8 +50,7 @@ class Persistence {
 }
 
 class SRPDemo {
-    public static void main(String[] args) throws Exception
-    {
+    public static void main(String[] args) throws Exception {
         Journal j = new Journal();
         j.addEntry("I cried today");
         j.addEntry("I ate a bug");

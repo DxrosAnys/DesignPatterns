@@ -1,2 +1,6 @@
-package interpreter;public interface Expresion {
+package interpreter;
+
+public interface Expresion {
+
+    String interpret(String context);
 }

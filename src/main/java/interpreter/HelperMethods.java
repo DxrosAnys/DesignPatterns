@@ -1,10 +1,12 @@
+package interpreter;
+
 import java.util.Arrays;
 import java.util.List;
 
 public class HelperMethods {
 
 
-  public static String noRepeatedWords(String context) {
+/*  public static String noRepeatedWords(String context) {
     List<String> list = Arrays.asList(context.split(" "));
     int size = list.size() - 1;
     StringBuilder sb = new StringBuilder();
@@ -18,18 +20,18 @@ public class HelperMethods {
     context = sb.toString();
 
     return context;
-  }
+  }*/
 
-  public static String endsWithPeriod(String context) {
+/*  public static String endsWithPeriod(String context) {
     if(!context.endsWith(".")) {
       context = context + ".";
     }
     return context;
-  }
+  }*/
 
-  public static String firstLetterLowerCase(String context) {
+/*  public static String firstLetterLowerCase(String context) {
     context = context.substring(0,1).toUpperCase() + context.substring(1);
     return context;
-  }
+  }*/
 
 }

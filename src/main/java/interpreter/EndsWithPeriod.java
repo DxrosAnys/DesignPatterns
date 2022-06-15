@@ -1,2 +1,14 @@
-package interpreter;public class EndsWithPeriod {
+package interpreter;
+
+public class EndsWithPeriod implements Expresion {
+
+    private final FirstLetterLowerCase firstLetterLowerCase = new FirstLetterLowerCase();
+
+    @Override
+    public String interpret(String context) {
+        if(!context.endsWith(".")) {
+            context = context + ".";
+        }
+        return firstLetterLowerCase.interpret(context);
+    }
 }

@@ -68,8 +68,30 @@ A terminal expression is the last time the interpret method gets called.
 * Easy to extend or implement the grammar
 * Works best with simple grammar
 
-###Iterator Pattern
+### Iterator Pattern
 
 * Iterators provide a way to access the items in a collection
 * They hide underlying structure
 * Real and often used examples in Java are the Iterable and Iterator interfaces
+
+### Mediator Pattern
+
+*The idea of the mediator pattern is to haven an object that's sole purpose is to handle these interactions between all of the different objects.
+If sits in the middle of them all and handles the communications between them.
+The provides a loose coupling between the objects and this makes the program simpler to understand and to maintain.
+
+### Memento Pattern
+
+* The memento pattern externalizes states without violating encapsulation.
+
+
+First of all, you have an object whose states are going to changing and this called originator.
+Then you have the object which is going to be changing it called the caretaker.
+The momento object sits between these two.
+So the objects during the changing has access to the memento, which provides the save states.
+The implementation of the originator stays as a black box.
+
+![img_1.png](img_1.png)
+
+*Can be memory intensive
+*Lets you save state and restore it later, without violating encapsulation.

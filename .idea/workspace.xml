@@ -5,39 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511d4c5a-4f8e-4dcd-98a7-1deb04de5ff7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Pirate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Troll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/TrafficUpdates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/HighState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/LowState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/MediumState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/TurnDownState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/TurnUpState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/makeBankAccountPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/makePayPalPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/AdjustmentVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/SalesPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/StaffList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Pirate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Troll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Troll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/AuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/AuthenticationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/BasicAuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/BasicAuthenticationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/ClientCertificateAuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/ClientCertificateAuthenticationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/DigestAuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/DigestAuthenticationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/PrintCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/PrintCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/SaveCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/SaveCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/EndsWithPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/EndsWithPeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/Expresion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/Expresion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/FirstLetterLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/FirstLetterLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/HelperMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/HelperMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/NoRepeatedWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/NoRepeatedWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/StaffList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/StaffList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/StaffListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/StaffListIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Planes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Planes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/PlanesInFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/PlanesInFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/PlanesOnGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/PlanesOnGround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Runway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Runway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memento/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/memento/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memento/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/memento/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memento/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/memento/Memento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/observer/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/observer/TrafficUpdates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/TrafficUpdates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/HighState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/HighState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/LowState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/LowState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/MediumState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/MediumState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/TurnDownState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/TurnDownState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/state/TurnUpState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/TurnUpState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/makeBankAccountPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/makeBankAccountPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/makePayPalPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/makePayPalPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/AdjustmentVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/AdjustmentVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/SalesPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/SalesPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/StaffList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/StaffList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Visitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +104,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/visitor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Backend/servicios-productos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -96,24 +124,11 @@
   </component>
   <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="visitor.Client" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.visitor.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="visitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Template.Main" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Template.*" />
+          <option name="PATTERN" value="behavioral.visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +163,50 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategy.Main" />
+      <option name="MAIN_CLASS_NAME" value="behavioral.observer.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategy.*" />
+          <option name="PATTERN" value="behavioral.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.state.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.state.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.strategy.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.template.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,27 +266,27 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/observer/City.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/City.java</url>
           <line>16</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/state/Fan.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/Fan.java</url>
           <line>29</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/state/Fan.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/Fan.java</url>
           <line>25</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/state/TurnUpState.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/TurnUpState.java</url>
           <line>11</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/visitor/StaffList.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/StaffList.java</url>
           <line>23</line>
           <properties>
             <option name="lambda-ordinal" value="0" />
@@ -240,15 +294,15 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/state/TurnDownState.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/TurnDownState.java</url>
           <line>21</line>
-          <properties class="state.TurnDownState" method="turnDown">
+          <properties class="state.TurnDownState">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/state/TurnUpState.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/TurnUpState.java</url>
           <line>5</line>
           <properties class="state.TurnUpState">
             <option name="EMULATED" value="true" />

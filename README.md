@@ -35,7 +35,7 @@ For example:
 
 ### Command Pattern
 * Encapsulates a request inside an object. 
-* Decouples the object that invokes the command from the object that knows how to handle it.
+* Decouples the object that invokes the behavioral.command from the object that knows how to handle it.
 
 **Sometimes Used For** 
 * Supporting undo/redo operations. 
@@ -76,33 +76,33 @@ A terminal expression is the last time the interpret method gets called.
 
 ### Mediator Pattern
 
-*The idea of the mediator pattern is to haven an object that's sole purpose is to handle these interactions between all of the different objects.
+*The idea of the behavioral.mediator pattern is to haven an object that's sole purpose is to handle these interactions between all of the different objects.
 If sits in the middle of them all and handles the communications between them.
 The provides a loose coupling between the objects and this makes the program simpler to understand and to maintain.
 
 ### Memento Pattern
 
-* The memento pattern externalizes states without violating encapsulation.
+* The behavioral.memento pattern externalizes states without violating encapsulation.
 
 
 First of all, you have an object whose states are going to changing and this called originator.
 Then you have the object which is going to be changing it called the caretaker.
 The momento object sits between these two.
-So the objects during the changing has access to the memento, which provides the save states.
+So the objects during the changing has access to the behavioral.memento, which provides the save states.
 The implementation of the originator stays as a black box.
 
 ![img_1.png](img_1.png)
 
 *Can be memory intensive
 
-*Lets you save state and restore it later, without violating encapsulation.
+*Lets you save behavioral.state and restore it later, without violating encapsulation.
 
 ### State Pattern
-Interface state where has a concrete specific implementation for different states.
+Interface behavioral.state where has a concrete specific implementation for different states.
 ![img_2.png](img_2.png)
 
 * Is a way of avoiding large if/else blocks or switch statements
-* Allow an object to change its behavior when its internal state changes.
+* Allow an object to change its behavior when its internal behavioral.state changes.
 
 ### Strategy Pattern
 *File encryption
@@ -113,7 +113,7 @@ Interface state where has a concrete specific implementation for different state
 
 ![img_3.png](img_3.png)
 
-### Template Method Pattern
+### behavioral.template Method Pattern
 
 In code, you would define the steps for making a lasagna.  In a abstract class.
 For example, with methods for making the filling, making the white sauce, and baking the lasagna.
@@ -121,7 +121,7 @@ The instructions for baking the lasagna, will be same for all of them.
 
 ![img_4.png](img_4.png)
 
-Problems: Template Method Pattern
+Problems: behavioral.template Method Pattern
 
 * Difficult to communicate intent to users.
 * The flow of the program can be complex and hard to follow.
@@ -134,8 +134,8 @@ When the Pattern is Useful
 ### The Visitor Pattern
 
 Say you have a tree of objects, and you want to perform an operation on all the elements of it.
-The visitor pattern allows you to do this without making changes to the elements themselves.
-Instead, a separate visitor object is passed to each object to perform the operation.
+The behavioral.visitor pattern allows you to do this without making changes to the elements themselves.
+Instead, a separate behavioral.visitor object is passed to each object to perform the operation.
 
 ![img_5.png](img_5.png)
 

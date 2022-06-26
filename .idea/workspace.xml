@@ -5,20 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511d4c5a-4f8e-4dcd-98a7-1deb04de5ff7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Planes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/PlanesInFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/PlanesOnGround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/Runway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Pirate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Template/Troll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/TrafficUpdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/HighState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/LowState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/MediumState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/TurnDownState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/state/TurnUpState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/makeBankAccountPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/makePayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/AdjustmentVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/SalesPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/StaffList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/visitor/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/iterator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/iterator/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +76,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/memento" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/visitor" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -65,35 +84,23 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\DesignPatterns\src\main\java\visitor" />
+      <recent name="D:\Projects\DesignPatterns\src\main\java\Template" />
+      <recent name="D:\Projects\DesignPatterns\src\main\java\strategy" />
+      <recent name="D:\Projects\DesignPatterns\src\main\java\observer" />
       <recent name="D:\Projects\DesignPatterns\src\main\java\memento" />
-      <recent name="D:\Projects\DesignPatterns\src\main\java\mediator" />
-      <recent name="D:\Projects\DesignPatterns\src\main\java\iterator" />
-      <recent name="D:\Projects\DesignPatterns\src\main\java\interpreter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\DesignPatterns\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="memento.Calculator" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="visitor.Client" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="command.GUI" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="command.*" />
+          <option name="PATTERN" value="visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iterator.Main" />
+      <option name="MAIN_CLASS_NAME" value="Template.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterator.*" />
+          <option name="PATTERN" value="Template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +121,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mediator.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mediator.*" />
+          <option name="PATTERN" value="observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +148,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interpreter.Main" />
+      <option name="MAIN_CLASS_NAME" value="strategy.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interpreter.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +185,11 @@
       <workItem from="1654956771500" duration="15463000" />
       <workItem from="1655079652768" duration="3369000" />
       <workItem from="1655264222267" duration="6744000" />
-      <workItem from="1655360316224" duration="1695000" />
+      <workItem from="1655360316224" duration="1841000" />
+      <workItem from="1655444438531" duration="1806000" />
+      <workItem from="1656047003445" duration="3044000" />
+      <workItem from="1656077609670" duration="7193000" />
+      <workItem from="1656184556682" duration="11224000" />
     </task>
     <servers />
   </component>
@@ -183,5 +207,60 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/observer/City.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/state/Fan.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/state/Fan.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/state/TurnUpState.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/visitor/StaffList.java</url>
+          <line>23</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/state/TurnDownState.java</url>
+          <line>21</line>
+          <properties class="state.TurnDownState" method="turnDown">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/state/TurnUpState.java</url>
+          <line>5</line>
+          <properties class="state.TurnUpState">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="state.Fan" memberName="state" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

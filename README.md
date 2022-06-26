@@ -94,4 +94,51 @@ The implementation of the originator stays as a black box.
 ![img_1.png](img_1.png)
 
 *Can be memory intensive
+
 *Lets you save state and restore it later, without violating encapsulation.
+
+### State Pattern
+Interface state where has a concrete specific implementation for different states.
+![img_2.png](img_2.png)
+
+* Is a way of avoiding large if/else blocks or switch statements
+* Allow an object to change its behavior when its internal state changes.
+
+### Strategy Pattern
+*File encryption
+*Validation
+*Sorting algorithms
+*Saving to different file types
+*And more
+
+![img_3.png](img_3.png)
+
+### Template Method Pattern
+
+In code, you would define the steps for making a lasagna.  In a abstract class.
+For example, with methods for making the filling, making the white sauce, and baking the lasagna.
+The instructions for baking the lasagna, will be same for all of them. 
+
+![img_4.png](img_4.png)
+
+Problems: Template Method Pattern
+
+* Difficult to communicate intent to users.
+* The flow of the program can be complex and hard to follow.
+
+When the Pattern is Useful
+
+* You only want to implement the common parts of an algorithm once.
+* You have classes that duplicate the same code.
+
+### The Visitor Pattern
+
+Say you have a tree of objects, and you want to perform an operation on all the elements of it.
+The visitor pattern allows you to do this without making changes to the elements themselves.
+Instead, a separate visitor object is passed to each object to perform the operation.
+
+![img_5.png](img_5.png)
+
+* Is fairly complex
+* For a specific use case
+* Makes use of the open-closed principle

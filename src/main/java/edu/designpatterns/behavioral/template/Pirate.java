@@ -1,6 +1,6 @@
 package edu.designpatterns.behavioral.template;
 
-public class Pirate extends java.lang.Character {
+public class Pirate extends Character {
 
   public void pickUpWeapon() {
     System.out.println("Pick up sword");

@@ -16,7 +16,7 @@ You can think different between them as difference between **IS A** and **HAS A*
 
 For example:
 
-![bhp.png](bhp.png)
+![bhp.png](images/bhp.png)
 
 | Behavioral Class Patterns | Behavioral Object Patterns |
 |-----  | ----- |
@@ -52,7 +52,7 @@ A non-terminal expression cause the interpret method, which alters the context, 
 A terminal expression is the last time the interpret method gets called. 
 * The client: It which will create instances of expressions to interpret the context.
 
-![img.png](img.png)
+![img.png](images/img.png)
 <br> Components of Interpreter Pattern.
 
 
@@ -91,7 +91,7 @@ The momento object sits between these two.
 So the objects during the changing has access to the behavioral.memento, which provides the save states.
 The implementation of the originator stays as a black box.
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 *Can be memory intensive
 
@@ -99,7 +99,7 @@ The implementation of the originator stays as a black box.
 
 ### State Pattern
 Interface behavioral.state where has a concrete specific implementation for different states.
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 * Is a way of avoiding large if/else blocks or switch statements
 * Allow an object to change its behavior when its internal behavioral.state changes.
@@ -111,7 +111,7 @@ Interface behavioral.state where has a concrete specific implementation for diff
 *Saving to different file types
 *And more
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 ### behavioral.template Method Pattern
 
@@ -119,7 +119,7 @@ In code, you would define the steps for making a lasagna.  In a abstract class.
 For example, with methods for making the filling, making the white sauce, and baking the lasagna.
 The instructions for baking the lasagna, will be same for all of them. 
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 Problems: behavioral.template Method Pattern
 
@@ -137,7 +137,7 @@ Say you have a tree of objects, and you want to perform an operation on all the 
 The behavioral.visitor pattern allows you to do this without making changes to the elements themselves.
 Instead, a separate behavioral.visitor object is passed to each object to perform the operation.
 
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
 * Is fairly complex
 * For a specific use case

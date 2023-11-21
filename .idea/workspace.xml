@@ -5,67 +5,110 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511d4c5a-4f8e-4dcd-98a7-1deb04de5ff7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter02/PerformanceExample1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter02/PerformanceExample1/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter06/MemoryTest/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter06/MemoryTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter07/EscapingReferences/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter07/EscapingReferences/CustomerRecords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter07/EscapingReferences/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter08/BookCatalog/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter08/BookCatalog/BookCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter08/BookCatalog/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter08/BookCatalog/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter11/GarbageCollection/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter11/GarbageCollection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter12/SoftLeaks/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter12/SoftLeaks/CustomerHarness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter12/SoftLeaks/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter12/SoftLeaks/GenerateCustomerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter12/SoftLeaks/ProcessCustomerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimes/CombinedNumbersTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimes/FibonnaciNumbersTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimes/NumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimes/PrimeNumbersTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimesImproved/CombinedNumbersTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimesImproved/FibonnaciNumbersTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimesImproved/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimesImproved/NumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter16/FibonnaciPrimesImproved/PrimeNumbersTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter20/ListBenchmarking/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter20/ListBenchmarking/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter22/CodingPerformance/src/main/BigDecimalPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter22/CodingPerformance/src/main/LoggingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter22/CodingPerformance/src/main/LoopPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter22/CodingPerformance/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter22/CodingPerformance/src/main/PrimativesPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter22/CodingPerformance/src/main/StringBuilderPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter23/GraalPerformanceTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter24/JavaMain.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter24/KotlinMain.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java11/chapter24/cfr-0.142.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Pirate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Template/Troll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Troll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/AuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/AuthenticationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/BasicAuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/BasicAuthenticationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/ClientCertificateAuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/ClientCertificateAuthenticationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/DigestAuthenticationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/chainofresponsability/DigestAuthenticationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/PrintCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/PrintCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/SaveCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/command/SaveCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/EndsWithPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/EndsWithPeriod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/Expresion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/Expresion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/FirstLetterLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/FirstLetterLowerCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/HelperMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/HelperMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interpreter/NoRepeatedWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/interpreter/NoRepeatedWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/StaffList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/StaffList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/iterator/StaffListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/iterator/StaffListIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Mediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Planes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Planes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/PlanesInFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/PlanesInFlight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/PlanesOnGround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/PlanesOnGround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mediator/Runway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/mediator/Runway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memento/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/memento/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memento/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/memento/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/memento/Memento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/memento/Memento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observer/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/observer/TrafficUpdates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/TrafficUpdates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/HighState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/HighState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/LowState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/LowState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/MediumState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/MediumState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/TurnDownState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/TurnDownState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/state/TurnUpState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/TurnUpState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/makeBankAccountPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/makeBankAccountPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/makePayPalPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/strategy/makePayPalPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/AdjustmentVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/AdjustmentVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/SalesPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/SalesPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/StaffList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/StaffList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/visitor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Pirate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Troll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/template/Troll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Template/Character.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Template/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Template/Pirate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Template/Troll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainofresponsability/AuthenticationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainofresponsability/BasicAuthenticationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainofresponsability/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainofresponsability/ClientCertificateAuthenticationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chainofresponsability/DigestAuthenticationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/command/Button.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/command/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/command/GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/command/PrintCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/command/SaveCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interpreter/EndsWithPeriod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interpreter/Expresion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interpreter/FirstLetterLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interpreter/HelperMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interpreter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interpreter/NoRepeatedWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/iterator/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/iterator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/iterator/StaffList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/iterator/StaffListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mediator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mediator/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mediator/Planes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mediator/PlanesInFlight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mediator/PlanesOnGround.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mediator/Runway.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memento/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memento/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/memento/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer/TrafficUpdates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/state/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/state/HighState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/state/LowState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/state/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/state/MediumState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/state/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/makeBankAccountPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strategy/makePayPalPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/visitor/AdjustmentVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/visitor/SalesPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/visitor/StaffList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Visitor.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,57 +147,32 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Backend/servicios-productos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/java11/chapter24" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\DesignPatterns\src\main\java\visitor" />
-      <recent name="D:\Projects\DesignPatterns\src\main\java\Template" />
-      <recent name="D:\Projects\DesignPatterns\src\main\java\strategy" />
-      <recent name="D:\Projects\DesignPatterns\src\main\java\observer" />
-      <recent name="D:\Projects\DesignPatterns\src\main\java\memento" />
+      <recent name="C:\Users\conoc\Documents\github\LevelUpJava\src\main\java\java11\chapter24" />
+      <recent name="C:\Users\conoc\Documents\github\LevelUpJava\src\main\java\java11\chapter23" />
+      <recent name="C:\Users\conoc\Documents\github\LevelUpJava\src\main\java\java11\chapter22" />
+      <recent name="C:\Users\conoc\Documents\github\LevelUpJava\src\main\java\java11\chapter20" />
+      <recent name="C:\Users\conoc\Documents\github\LevelUpJava\src\main\java\java11\chapter16" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\conoc\Documents\github\LevelUpJava\src\main\java\java11\chapter24" />
       <recent name="D:\Projects\DesignPatterns\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.visitor.Client" />
-      <module name="DesignPatterns" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java11.chapter02.PerformanceExample1.src.main.Main" />
+      <module name="LevelUpJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.visitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="observer.Main" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="state.Main" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="java11.chapter02.PerformanceExample1.src.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +181,13 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.observer.Main" />
-      <module name="DesignPatterns" />
+      <option name="MAIN_CLASS_NAME" value="java11.chapter02.PerformanceExample1.src.main.Main" />
+      <module name="LevelUpJava" />
+      <option name="PROGRAM_PARAMETERS" value="5000" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintCompilation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral.observer.*" />
+          <option name="PATTERN" value="performance.PerformanceExample1.src.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,13 +234,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +266,7 @@
       <workItem from="1656047003445" duration="3044000" />
       <workItem from="1656077609670" duration="7193000" />
       <workItem from="1656184556682" duration="11224000" />
+      <workItem from="1700537699909" duration="5301000" />
     </task>
     <servers />
   </component>
@@ -265,11 +288,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/observer/City.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/edu/designpatterns/behavioral/state/Fan.java</url>
           <line>29</line>
